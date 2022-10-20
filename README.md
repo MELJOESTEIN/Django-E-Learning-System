@@ -5,3 +5,5 @@ our YouTube channel https://www.youtube.com/watch?v=UqZYIThWLVk
 
 
 ![alt text](https://github.com/MoTechStore/Django-E-Learning-System/blob/master/thumb.png)
+
+## How to run the project on your laptop
